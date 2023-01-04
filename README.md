@@ -1,9 +1,9 @@
 - 👋 Hi, I’m HamidReza Gharahzadeh
-- 👀 I’m interested in clean coding, hiking and fitness
-- 🌱 I’m currently improving my programming skills
-- 💞️ I’m looking to collaborate on challenging projects
 - 📫 You can reach me by hamidprime@gmail.com
 - Founder and Developer at Hesabfa.com (Online Accounting Software)
+- Check out our SaaS application at https://app.hesabfa.com/u/login 
+
+- My current stack includes: ASP.NET, C#, Nhibernate, SQL Server, Angular, TypeScript, JavaScript, and Cordova.
 
 <!---
 Pepeland/Pepeland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

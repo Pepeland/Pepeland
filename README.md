@@ -1,5 +1,6 @@
-- 👋 Hi, I’m HamidReza Gharahzadeh
-- 📫 You can reach me by hamidprime@gmail.com
+- 👋 Hi, I’m Ryan Gharahzadeh [My legal name is Hamidreza Gharahzadeh]
+- :link: My Portfolio website: [gharahzadeh.com](https://gharahzadeh.com)
+- 📫 You can reach me at hamidprime@gmail.com
 - Founder and Developer at Hesabfa.com (Online Accounting Software)
 - I like video games and wrote a simple evolution simulation with JavaScript! check it out at https://github.com/Pepeland/simple-evolution-simulation and send me your feedback.
 

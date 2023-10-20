@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Ryan Gharahzadeh [My legal name is Hamidreza Gharahzadeh]
 - :link: My Portfolio website: [gharahzadeh.com](https://gharahzadeh.com)
 - 📫 You can reach me at hamidprime@gmail.com
-- Founder and Developer at Hesabfa.com (Online Accounting Software)
-- I like video games and wrote a simple evolution simulation with JavaScript! check it out at https://github.com/Pepeland/simple-evolution-simulation and send me your feedback.
+- Founder and senior developer of [Hesabfa.com](https://hesabfa.com) (Online Accounting Software)
 
-- My current stack includes .NET, C#, SQL Server, MongoDB, Angular, TypeScript, JavaScript, Cordova, and PHP.
+- Tech stack: .NET, C#, SQL Server, MongoDB, Angular, TypeScript, JavaScript.
 
 <!---
 Pepeland/Pepeland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
